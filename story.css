@@ -7,14 +7,10 @@ body {
 p {
   color: white;
   background-color: #AA98A9;
-   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  text-align: center
 }
 
 h1 {
   color: white;
-   display: block;
-  margin-left: auto;
-  margin-right: auto;
+   text-align: center;
 }
