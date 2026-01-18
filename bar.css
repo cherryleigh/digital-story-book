@@ -10,3 +10,15 @@ ul {
   display: flex;
   justify-content: center;
 }
+
+ul li a {
+  display: block;
+  color: #796878;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: #111111;
+}
+
