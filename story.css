@@ -6,9 +6,15 @@ body {
 
 p {
   color: white;
-  background-color: ;
+  background-color: #AA98A9;
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h1 {
-  color: whiite;
+  color: white;
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
