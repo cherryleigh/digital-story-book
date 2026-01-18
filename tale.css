@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #796878;
+}
+
+p {
+  color: white;
+  background-color: #AA98A9;
+  text-align: left;
+}
+
+h1 {
+  color: white;
+   text-align: center;
+}
