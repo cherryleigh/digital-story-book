@@ -13,3 +13,10 @@ ul {
 
 ul li {
   float: center;
+
+ul li a {
+  display: block;
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+}
