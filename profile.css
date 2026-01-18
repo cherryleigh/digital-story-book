@@ -1,7 +1,8 @@
 body {
-background-image: url("bg.html");
+  margin: 0;
+  padding: 0;
+  background-color: #796878;
 }
-
 p {
   color: ##1A001A;
   background-color: #AA98A9;
