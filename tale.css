@@ -1,5 +1,7 @@
 body {
-background-image: url("bg.html");
+  margin: 0;
+  padding: 0;
+  background-color: #796878;
 }
 
 p {
