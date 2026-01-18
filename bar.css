@@ -15,6 +15,10 @@ ul {
 }
 
 ul li {
+  margin: 10px;
+}
+
+ul li {
   float: center;
 
 ul li a {
