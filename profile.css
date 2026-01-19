@@ -5,13 +5,10 @@ body {
 
 p {
   color: ##1A001A;
-  background-color: #AA98A9;
   text-align: justify;
-  border: 10px solid black;
   font-family: courier;
   margin: auto;
    padding: 10px;
-  width: 50%;
 }
 
 h1 {
@@ -25,4 +22,9 @@ img {
   margin-left: auto;
   margin-right: auto;
    border-radius: 50%;
+}
+
+div {
+  width: 950px;
+  height: 750px
 }
