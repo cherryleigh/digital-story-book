@@ -12,7 +12,10 @@ p {
   width: 50%;
 }
 
-h1 {
+h1 {font-family: verdana;
+      color: #1A001A;} 
+
+h2 {
   color: white;
    text-align: center;
 }
