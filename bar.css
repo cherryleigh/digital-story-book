@@ -2,14 +2,14 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: #796878;
+  background-color: #03002E;
 }
 
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  background-color: #796878;
+  background-color: #03002E;
   display: flex;
   justify-content: center;
 }
