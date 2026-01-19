@@ -3,7 +3,7 @@ body {
 }
 
 p {
-  color: white;
+  color: black;
   text-align: justify;
    margin: auto;
    padding: 10px;
@@ -14,7 +14,7 @@ h1 {font-family: verdana;
       color: #1A001A;} 
 
 h2 {
-  color: white;
+  color: black;
    text-align: center;
 }
 
