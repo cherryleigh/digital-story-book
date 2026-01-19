@@ -4,12 +4,10 @@ body {
 
 p {
   color: white;
-  background-color: #AA98A9;
   text-align: justify;
-   border: 10px solid black;
    margin: auto;
    padding: 10px;
-  width: 50%;
+ 
 }
 
 h1 {font-family: verdana;
